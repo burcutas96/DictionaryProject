@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\bin\Debug\net6.0\DictionaryProject.exe
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\bin\Debug\net6.0\DictionaryProject.deps.json
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\bin\Debug\net6.0\DictionaryProject.runtimeconfig.json
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\bin\Debug\net6.0\DictionaryProject.dll
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\bin\Debug\net6.0\DictionaryProject.pdb
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\DictionaryProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\DictionaryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\DictionaryProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\DictionaryProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\DictionaryProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\DictionaryProject.dll
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\refint\DictionaryProject.dll
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\DictionaryProject.pdb
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\DictionaryProject.genruntimeconfig.cache
+C:\Users\HP\Desktop\GitHub\Backend\DictionaryProject\DictionaryProject\obj\Debug\net6.0\ref\DictionaryProject.dll
