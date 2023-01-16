@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DictonaryProject
+namespace DictionaryProject
 {
     public class MyDictionary<TKey, TValue>
     {
@@ -61,7 +61,7 @@ namespace DictonaryProject
             {
                 if (dictionaryKey[i].ToString() == key.ToString())
                 {
-                    Console.WriteLine("Key is already exist.");
+                    throw new Exception("Key is already exist.");
                     return false;
                 }
             }
@@ -74,7 +74,7 @@ namespace DictonaryProject
 
             if (keyString.Length == 0)
             {
-                Console.WriteLine("Key can't be empty");
+                throw new Exception("Key can't be empty.");
                 return false;
             }
             return true;
@@ -84,7 +84,7 @@ namespace DictonaryProject
         {
             if (myDictionary.Count == 0)
             {
-                Console.WriteLine("Dictionary is empty");
+                throw new Exception("Dictionary is empty");
                 return false;
             }
             return true;
